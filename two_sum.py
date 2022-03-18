@@ -64,8 +64,8 @@ def TwoSum(nums: list[int], target: int) -> list[int]:
 
 
 numbers=[3,2,4]
-piss=TwoSum(numbers,6)
-print(piss)
+ans=TwoSum(numbers,6)
+print(ans)
 
 
 
